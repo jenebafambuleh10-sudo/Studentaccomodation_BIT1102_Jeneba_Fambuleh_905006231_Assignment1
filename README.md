@@ -24,6 +24,29 @@ StudentStay SL gathers accommodation information in one accessible place, with p
 | About | `about.html` | Project background, the problem, the proposed solution and target users |
 | Contact | `contact.html` | Contact form and project information |
 
+
+## Screenshots
+
+## Home Page
+<img width="1112" height="1600" alt="Home-Page" src="https://github.com/user-attachments/assets/d76f5d41-dd31-457d-a973-aba222d7c7cf" />
+
+## Accommodation Page
+<img width="993" height="1600" alt="Accommodation-Page" src="https://github.com/user-attachments/assets/e3c3acdd-eace-4b35-8d68-5faec6e7ed13" />
+
+## About Page
+<img width="1054" height="1600" alt="About Us-Page" src="https://github.com/user-attachments/assets/7249c7a0-eefc-421f-8a7b-8836b74a5519" />
+
+## Contact Page
+<img width="1406" height="1600" alt="Contact-Page" src="https://github.com/user-attachments/assets/6fe88801-a635-40bc-ba49-8b75c510009e" />
+
+## Details Page
+<img width="1284" height="1600" alt="Details-Page" src="https://github.com/user-attachments/assets/b21ad384-14a1-493e-9e7d-13d18a41252f" />
+
+
+
+
+
+
 ## Features
 
 - Responsive layout for desktop, tablet and mobile
